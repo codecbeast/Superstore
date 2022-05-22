@@ -1,0 +1,10 @@
+Question
+Using sales data1
+
+- Extract sales made from kentucky, California and Florida under furniture and office supplies(Also show their corresponding order id, order date, ship date, customer name, sub category, and product name).
+
+- For all kinds of Xerox products, extract their respective sales and customer names
+- Find the average total sales for question 2 above if sales is not upto 500
+- For the customers name in question 2, split it into first name and second name
+- find the total sales for each of the ship mode
+- find the average sales for each of the regions
